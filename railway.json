@@ -1,1 +1,5 @@
-﻿{"deploy":{"startCommand":"node dist/server/server.js"}}
+﻿{
+  "deploy": {
+    "startCommand": "node dist/server/server.js"
+  }
+}
