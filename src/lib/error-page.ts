@@ -1,0 +1,3 @@
+﻿export function renderErrorPage() {
+  return '<!DOCTYPE html><html><body><h1>500</h1></body></html>';
+}
